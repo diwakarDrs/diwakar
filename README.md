@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **diwakarraja@gmail.com**
 
-- ⚡ Fun fact **I love to read books and listen to musics**
+- ⚡ Fun fact **I love to read books and listen to music**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
