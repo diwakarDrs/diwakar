@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Computer Vision**
 
-- 👯 I’m looking to collaborate **with other content creators**
+- 👯 I’m looking to collaborate **with other researchers and creators**
 
 - 👨‍💻 All of my projects are available at [https://github.com/diwakarDrs](https://github.com/diwakarDrs)
 
