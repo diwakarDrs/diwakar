@@ -19,6 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/diwakarraja1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="diwakarraja1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/raja-s-257b6b146/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/raja-s-257b6b146/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/diwakarraja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="diwakarraja" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
