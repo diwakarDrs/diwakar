@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Diwakar</h1>
 <h3 align="center">A passionate self taught Data Analyst from India</h3>
 
-- 🔭 I’m currently working on **DeepLearning Projects**
+- 🔭 I’m currently working on **Analyst** & **Digtial Marketing**
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **UX/UI**
 
-- 👯 I’m looking to collaborate **with other researchers and creators**
+- 👯 I’m looking to collaborate **with other, marketers, researchers and creators**
 
 - 👨‍💻 All of my projects are available at [https://github.com/diwakarDrs](https://github.com/diwakarDrs)
 
