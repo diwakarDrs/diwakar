@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Conversion Rate Optimization**
 
-- 👯 I’m looking to collaborate **with other, marketers, researchers and creators**
+- 👯 I’m looking to collaborate **with other marketers, researchers and creators**
 
 - 👨‍💻 All of my projects are available at [https://github.com/diwakarDrs](https://github.com/diwakarDrs)
 
